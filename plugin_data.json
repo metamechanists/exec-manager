@@ -212,6 +212,10 @@
         "type": "Spiget",
         "id": 39594
     },
+    "MySQLDriver": {
+        "type": "Manual",
+        "link": "https://bencodez.com/job/MySQLDriver/"
+    },
     "NerfPhantoms": {
         "type": "Spiget",
         "id": 59218
