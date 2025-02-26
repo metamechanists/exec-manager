@@ -313,6 +313,10 @@
         "type": "Spiget",
         "id": 34315
     },
+    "Velocitab": {
+        "type": "Manual",
+        "link": "https://hangar.papermc.io/William278/Velocitab"
+    },
     "VoidGen": {
         "type": "Spiget",
         "id": 25391
