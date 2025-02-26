@@ -76,7 +76,7 @@ fn update_blob(metadata: &MetaData, plugin: &String) {
     check_jar_not_empty(metadata, plugin);
 }
 
-fn update_manual(metadata: &MetaData, plugin: &String, link: &String) {
+fn update_manual(metadata: &MetaData, plugin: &String, link: &str) {
     println!("{}", messages::updated_manual(plugin, link));
     check_jar_not_empty(metadata, plugin);
 }

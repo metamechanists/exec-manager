@@ -6,9 +6,8 @@ fn delete_symlink(to: String) {
     let output = Command::new("rm")
         .arg(to)
         .output();
-    match output {
-        Err(error) => println!("{}", messages::unlink_failed(error)),
-        Ok(_) => (),
+    if let Err(error) = output {
+        println!("{}", messages::unlink_failed(error))
     }
 }
 

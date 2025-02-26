@@ -8,9 +8,8 @@ fn create_symlink(from: String, to: String) {
         .arg(from)
         .arg(to)
         .output();
-    match output {
-        Err(error) => println!("{}", messages::link_failed(error)),
-        Ok(_) => (),
+    if let Err(error) = output {
+        println!("{}", messages::link_failed(error))
     }
 }
 
