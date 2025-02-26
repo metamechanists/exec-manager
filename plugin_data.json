@@ -309,13 +309,13 @@
         "type": "Spiget",
         "id": 57242
     },
+    "TAB": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/tab-1-5-1-21-4.57806/"
+    },
     "Vault": {
         "type": "Spiget",
         "id": 34315
-    },
-    "Velocitab": {
-        "type": "Manual",
-        "link": "https://hangar.papermc.io/William278/Velocitab"
     },
     "VoidGen": {
         "type": "Spiget",
