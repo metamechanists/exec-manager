@@ -46,8 +46,8 @@ pub fn paper_failed(error: io::Error) -> String {
     format!("{}{}", "Failed to fetch paper: ".bright_red(), error)
 }
 
-pub fn waterfall_failed(error: io::Error) -> String {
-    format!("{}{}", "Failed to fetch waterfall: ".bright_red(), error)
+pub fn velocity_failed(error: io::Error) -> String {
+    format!("{}{}", "Failed to fetch velocity: ".bright_red(), error)
 }
 
 pub fn link_failed(error: io::Error) -> String {
@@ -86,8 +86,8 @@ pub fn updated_paper() -> String {
     format!("{}", "Successfully updated paper".bright_green())
 }
 
-pub fn updated_waterfall() -> String {
-    format!("{}", "Successfully updated waterfall".bright_green())
+pub fn updated_velocity() -> String {
+    format!("{}", "Successfully updated velocity".bright_green())
 }
 
 pub fn updated_manual(plugin: &String, link: &String) -> String {

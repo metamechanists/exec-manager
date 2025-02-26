@@ -26,8 +26,8 @@ pub fn link_paper(metadata: &MetaData, server: String) {
     create_symlink(from, to);
 }
 
-pub fn link_waterfall(metadata: &MetaData, server: String) {
-    let from = metadata.get_executables_directory() + "/waterfall.jar";
+pub fn link_velocity(metadata: &MetaData, server: String) {
+    let from = metadata.get_executables_directory() + "/velocity.jar";
     let to = metadata.get_server_directory(&server);
     create_symlink(from, to);
 }

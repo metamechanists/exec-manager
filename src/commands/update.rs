@@ -8,7 +8,7 @@ pub fn update_all(plugin_data: &HashMap<String, PluginData>, metadata: &MetaData
         update_plugin(plugin_data, metadata, data.0);
     }
     update_paper(metadata);
-    update_waterfall(metadata);
+    update_velocity(metadata);
 }
 
 pub fn update_plugin(plugin_data: &HashMap<String, PluginData>, metadata: &MetaData, plugin: &String) {
@@ -35,16 +35,16 @@ pub fn update_paper(metadata: &MetaData) {
     }
 }
 
-pub fn update_waterfall(metadata: &MetaData) {
-    let script = metadata.get_scripts_directory() + "/waterfall.sh";
+pub fn update_velocity(metadata: &MetaData) {
+    let script = metadata.get_scripts_directory() + "/velocity.sh";
     let output = Command::new("sh")
         .arg(script.as_str())
-        .arg(metadata.get_waterfall_version())
+        .arg(metadata.get_velocity_version())
         .arg(metadata.get_executables_directory())
         .output();
     match output {
-        Err(error) => println!("{}", messages::waterfall_failed(error)),
-        Ok(_) => println!("{}", messages::updated_waterfall()),
+        Err(error) => println!("{}", messages::velocity_failed(error)),
+        Ok(_) => println!("{}", messages::updated_velocity()),
     }
 }
 

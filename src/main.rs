@@ -16,17 +16,17 @@ struct Cli {
 
 #[derive(Clone, Debug, Subcommand)]
 enum Commands {
-    /// Update a specific plugin. 'all', 'paper', and 'waterfall' are valid.
+    /// Update a specific plugin. 'all', 'paper', and 'velocity' are valid.
     Update { plugin: String },
     /// Deploy a specific plugin from the dev server. 'all' is valid.
     Deploy { plugin: String },
     /// List servers a plugin is linked to
     List { plugin: String },
-    /// Link a plugin to a server. 'paper' and 'waterfall' are valid.
+    /// Link a plugin to a server. 'paper' and 'velocity' are valid.
     Link { plugin: String, server: String },
-    /// Unlink a plugin from a server. 'paper' and 'waterfall' are valid.
+    /// Unlink a plugin from a server. 'paper' and 'velocity' are valid.
     Unlink { plugin: String, server: String },
-    /// Check that the executables directory contains all required executables (including paper and waterfall)
+    /// Check that the executables directory contains all required executables (including paper and velocity)
     Verify,
     /// Check that the symlinks in all servers are valid
     Integrity,

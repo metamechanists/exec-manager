@@ -20,5 +20,5 @@ pub fn verify(metadata: &MetaData, plugin_data: &HashMap<String, PluginData>) {
         check_jar_exists_and_not_empty(metadata, plugin);
     }
     check_jar_exists_and_not_empty(metadata, &"paper.jar".to_string());
-    check_jar_exists_and_not_empty(metadata, &"waterfall.jar".to_string());
+    check_jar_exists_and_not_empty(metadata, &"velocity.jar".to_string());
 }

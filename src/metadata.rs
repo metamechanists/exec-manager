@@ -10,7 +10,7 @@ const METADATA_PATH: &str = "/home/exec-manager/metadata.json";
 #[derive(Deserialize)]
 pub struct MetaData {
     paper_version: String,
-    waterfall_version: String,
+    velocity_version: String,
     scripts: String,
     executables: String,
     deploy_from: String,
@@ -57,8 +57,8 @@ impl MetaData {
         self.paper_version.clone()
     }
 
-    pub fn get_waterfall_version(&self) -> String{
-        self.waterfall_version.clone()
+    pub fn get_velocity_version(&self) -> String{
+        self.velocity_version.clone()
     }
 
     pub fn get_servers(&self) -> Vec<String> {

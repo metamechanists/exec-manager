@@ -22,7 +22,7 @@ pub fn unlink_paper(metadata: &MetaData, server: String) {
     delete_symlink(to);
 }
 
-pub fn unlink_waterfall(metadata: &MetaData, server: String) {
-    let to = metadata.get_server_directory(&server) + "/waterfall.jar";
+pub fn unlink_velocity(metadata: &MetaData, server: String) {
+    let to = metadata.get_server_directory(&server) + "/velocity.jar";
     delete_symlink(to);
 }

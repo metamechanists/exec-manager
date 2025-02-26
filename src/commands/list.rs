@@ -22,9 +22,9 @@ pub fn list_paper(metadata: &MetaData) {
     }
 }
 
-pub fn list_waterfall(metadata: &MetaData) {
+pub fn list_velocity(metadata: &MetaData) {
     for server in metadata.get_servers() {
-        let path = metadata.get_server_directory(&server) + "/waterfall.jar";
+        let path = metadata.get_server_directory(&server) + "/velocity.jar";
         check_link(path, server);
     }
 }
