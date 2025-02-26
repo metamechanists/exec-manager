@@ -27,20 +27,6 @@
         "type": "Spiget",
         "id": 39590
     },
-    "BungeeGuard": {
-        "type": "Spiget",
-        "id": 79601
-    },
-    "BungeeReconnect": {
-        "type": "Manual",
-        "link": "https://gitlab.com/TauCu/bungee-reconnect/-/releases"
-    },
-    "BungeeTabListPlusBukkit": {
-        "type": "Script"
-    },
-    "BungeeTabListPlusProxy": {
-        "type": "Script"
-    },
     "Celeste": {
         "type": "Spiget",
         "id": 81862
@@ -181,7 +167,7 @@
         "type": "Spiget",
         "id": 28140
     },
-    "LuckPermsBungee": {
+    "LuckPermsVelocity": {
         "type": "Manual",
         "link": "https://luckperms.net/download"
     },
@@ -314,18 +300,6 @@
     },
     "SlimeTinker": {
         "type": "Blob"
-    },
-    "StaffPlusPlusBukkit": {
-        "type": "Manual",
-        "link": "https://staffplusplus.org/"
-    },
-    "StaffPlusPlusDiscord": {
-        "type": "Spiget",
-        "id": 83871
-    },
-    "StaffPlusPlusProxy": {
-        "type": "Manual",
-        "link": "https://staffplusplus.org/"
     },
     "Spark": {
         "type": "Spiget",
