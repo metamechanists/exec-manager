@@ -163,6 +163,14 @@
         "type": "Manual",
         "link": "https://github.com/ArcanePlugins/LevelledMobs/releases"
     },
+    "LimboAPI": {
+        "type": "Manual",
+        "link": "https://github.com/Elytrium/LimboAPI/releases"
+    },
+    "LimboReconnect": {
+        "type": "Manual",
+        "link": "https://github.com/Elytrium/LimboReconnect/releases"
+    },
     "LuckPerms": {
         "type": "Spiget",
         "id": 28140
