@@ -330,8 +330,12 @@
         "id": 57242
     },
     "TAB": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/tab-1-5-1-21-4.57806/"
+        "type": "Spiget",
+        "id": 57806
+    },
+    "TABBridge": {
+        "type": "Spiget",
+        "id": 83966
     },
     "Vault": {
         "type": "Spiget",
