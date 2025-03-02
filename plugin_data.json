@@ -341,7 +341,11 @@
         "type": "Spiget",
         "id": 34315
     },
-    "VoidGen": {
+    "ViaVersion": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/viaversion.19254/"
+    },
+    VoidGen": {
         "type": "Spiget",
         "id": 25391
     },
