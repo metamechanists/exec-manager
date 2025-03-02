@@ -345,7 +345,7 @@
         "type": "Manual",
         "link": "https://www.spigotmc.org/resources/viaversion.19254/"
     },
-    VoidGen": {
+    "VoidGen": {
         "type": "Spiget",
         "id": 25391
     },
