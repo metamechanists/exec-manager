@@ -342,8 +342,8 @@
         "id": 83966
     },
     "Vault": {
-        "type": "Spiget",
-        "id": 34315
+        "type": "Manual",
+        "id": "https://www.zrips.net/cmivault/"
     },
     "ViaVersion": {
         "type": "Manual",
