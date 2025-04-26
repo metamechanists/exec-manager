@@ -250,6 +250,10 @@
         "type": "Spiget",
         "id": 63497
     },
+    "Piles": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/piles.120749/"
+    },
     "PlaceholderAPI": {
         "type": "Spiget",
         "id": 6245
