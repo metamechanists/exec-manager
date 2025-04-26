@@ -351,7 +351,7 @@
     },
     "Vault": {
         "type": "Manual",
-        "id": "https://www.zrips.net/cmivault/"
+        "link": "https://www.zrips.net/cmivault/"
     },
     "ViaVersion": {
         "type": "Manual",
