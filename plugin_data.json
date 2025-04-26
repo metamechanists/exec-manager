@@ -254,10 +254,6 @@
         "type": "Manual",
         "link": "https://www.spigotmc.org/resources/piles.120749/"
     },
-    "PistonQueue": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/pistonqueue.83541/"
-    },
     "PlaceholderAPI": {
         "type": "Spiget",
         "id": 6245
