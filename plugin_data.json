@@ -348,7 +348,7 @@
     "TheosisEconomy": {
         "type": "Spiget",
         "id": 93430
-    }
+    },
     "Vault": {
         "type": "Manual",
         "id": "https://www.zrips.net/cmivault/"
