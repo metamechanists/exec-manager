@@ -216,9 +216,9 @@
         "type": "Manual",
         "link": "N/A"
     },
-    "MyWorlds": {
-        "type": "Spiget",
-        "id": 39594
+    "Multiverse": {
+        "type": "Manual",
+        "link": "https://github.com/Multiverse/Multiverse-Core/releases"
     },
     "MySQLDriver": {
         "type": "Manual",
