@@ -82,8 +82,8 @@
         "id": 110267
     },
     "DtlTraders": {
-        "type": "Spiget",
-        "id": 35890
+        "type": "Manual",
+        "id": "https://www.spigotmc.org/resources/dtltradersplus.63690/"
     },
     "DyedBackpacks": {
         "type": "Manual",
