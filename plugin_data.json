@@ -81,6 +81,10 @@
         "type": "Spiget",
         "id": 110267
     },
+    "DtlTraders": {
+        "type": "Spiget",
+        "id": 35890
+    },
     "DyedBackpacks": {
         "type": "Manual",
 	"link": "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/DyedBackpacks/master/"
