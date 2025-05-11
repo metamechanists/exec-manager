@@ -151,6 +151,10 @@
     "InfinityExpansion": {
         "type": "Internal"
     },
+    "Images": {
+        "type": "Spiget",
+        "id": 53036
+    },
     "InteractiveChat": {
         "type": "Manual",
 	"link": "https://ci.loohpjames.com/job/InteractiveChat/"
@@ -158,6 +162,10 @@
     "InteractiveChatDiscordSRV": {
         "type": "Manual",
 	"link": "https://ci.loohpjames.com/job/InteractiveChat-DiscordSRV-Addon/"
+    },
+    "ItemsAdder": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/"
     },
     "ItemEdit": {
         "type": "Spiget",
@@ -175,6 +183,10 @@
         "type": "Manual",
         "link": "https://github.com/Elytrium/LimboReconnect/releases"
     },
+    "LoneLibs": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/lonelibs.75974/"
+    }
     "LuckPerms": {
         "type": "Spiget",
         "id": 28140
