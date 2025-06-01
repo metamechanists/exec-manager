@@ -305,6 +305,10 @@
     "SFCalc": {
         "type": "Blob"
     },
+    "SignShop": {
+        "type": "Spiget",
+        "id": 10997
+    },
     "SlimefunServerEssentials": {
         "type": "Manual",
         "link": "https://github.com/JustAHuman-xD/SlimefunServerEssentials/releases"
