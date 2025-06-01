@@ -83,7 +83,7 @@
     },
     "DtlTraders": {
         "type": "Manual",
-        "id": "https://www.spigotmc.org/resources/dtltradersplus.63690/"
+        "link": "https://www.spigotmc.org/resources/dtltradersplus.63690/"
     },
     "DyedBackpacks": {
         "type": "Manual",
