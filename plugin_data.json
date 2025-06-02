@@ -285,6 +285,14 @@
         "type": "Manual",
         "link": "https://dev.bukkit.org/projects/pvpmanager/files/5669774"
     },
+    "PyroMining": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/pyromining-1-14-x-1-21-x-v4-0-0-update-artifacts-fossils-and-vessels.59867/"
+    },
+    "PyroFishing": {
+        "type": "Manual",
+        "link": "https://www.spigotmc.org/resources/pyrofishingpro-1-14-x-1-21-x-1-fishing-plugin-new-tournament-rework.60729/"
+    },
     "Quaptics": {
         "type": "Blob"
     },
