@@ -285,6 +285,12 @@
         "type": "Manual",
         "link": "https://dev.bukkit.org/projects/pvpmanager/files/5669774"
     },
+    "PylonBase": {
+        "type": "Script"
+    },
+    "PylonCore": {
+        "type": "Script"
+    },
     "PyroMining": {
         "type": "Manual",
         "link": "https://www.spigotmc.org/resources/pyromining-1-14-x-1-21-x-v4-0-0-update-artifacts-fossils-and-vessels.59867/"
