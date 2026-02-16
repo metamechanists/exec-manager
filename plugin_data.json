@@ -150,18 +150,6 @@
     "SquaremapGriefPrevention": {
         "type": "Script"
     },
-    "StaffPlusPlusBukkit": {
-        "type": "Manual",
-        "link": "https://staffplusplus.org/"
-    },
-    "StaffPlusPlusDiscord": {
-        "type": "Spiget",
-        "id": 83871
-    },
-    "StaffPlusPlusNetwork": {
-        "type": "Manual",
-        "link": "https://staffplusplus.org/"
-    },
     "Spark": {
         "type": "Spiget",
         "id": 57242
