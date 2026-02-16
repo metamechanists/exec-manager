@@ -166,6 +166,10 @@
         "type": "Manual",
         "link": "https://github.com/NEZNAMY/VelocityScoreboardAPI/releases/"
     },
+    "VoidGen": {
+        "type": "Spiget",
+        "id": 121721
+    },
     "VotingPlugin": {
         "type": "Spiget",
         "id": 15358
