@@ -166,6 +166,10 @@
         "type": "Manual",
         "link": "https://www.zrips.net/cmivault/"
     },
+    "VelocityScoreboardAPI": {
+        "type": "Manual",
+        "link": https://github.com/NEZNAMY/VelocityScoreboardAPI/releases/
+    },
     "VotingPlugin": {
         "type": "Spiget",
         "id": 15358
