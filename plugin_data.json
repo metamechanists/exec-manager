@@ -1,7 +1,4 @@
 {
-    "Aircraft": {
-        "type": "Internal"
-    },
     "AntiPopup": {
         "type": "Script"
     },
@@ -9,31 +6,9 @@
         "type": "Spiget",
         "id": 2237
     },
-    "ArtMap": {
-        "type": "Manual",
-        "link": "https://gitlab.com/BlockStack/ArtMap/-/releases"
-    },
-    "Aureliumeta": {
-        "type": "Internal"
-    },
-    "AuraSkills": {
-        "type": "Spiget",
-        "id": 81069
-    },
-    "BetonQuest": {
-        "type": "Script"
-    },
-    "BKCommonLib": {
-        "type": "Spiget",
-        "id": 39590
-    },
     "Celeste": {
         "type": "Spiget",
         "id": 81862
-    },
-    "Citizens": {
-        "type": "Manual",
-	"link": "https://github.com/kennytv/WorldEditSUI/releases"
     },
     "CleanMOTD": {
         "type": "Spiget",
@@ -59,16 +34,6 @@
         "type": "Spiget",
         "id": 31331
     },
-    "CrystamaeHistoria": {
-        "type": "Manual",
-	"link": "https://thebusybiscuit.github.io/builds/Sefiraat/CrystamaeHistoria/master/"
-    },
-    "DailyRewards": {
-        "type": "Internal"
-    },
-    "DankTech2": {
-        "type": "Internal"
-    },
     "DeluxeMenus": {
         "type": "Spiget",
         "id": 11734
@@ -81,55 +46,12 @@
         "type": "Spiget",
         "id": 110267
     },
-    "DtlTraders": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/dtltradersplus.63690/"
-    },
-    "DyedBackpacks": {
-        "type": "Manual",
-	"link": "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/DyedBackpacks/master/"
-    },
-    "DynaTech": {
-        "type": "Script"
-    },
     "ExcellentCrates": {
         "type": "Spiget",
         "id": 48732
     },
-    "ExtraHeads": {
-        "type": "Blob"
-    },
-    "EcoPower": {
-        "type": "Manual",
-	"link": "https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/"
-    },
-    "EvenMoreFish": {
-        "type": "Spiget",
-        "id": 91310
-    },
-    "FNAmplifications": {
-        "type": "Blob"
-    },
     "FastAsyncWorldEdit": {
         "type": "Script"
-    },
-    "FluffyMachines": {
-        "type": "Blob"
-    },
-    "FoxyMachines": {
-        "type": "Blob"
-    },
-    "Furnished": {
-        "type": "Internal"
-    },
-    "Galactifun": {
-        "type": "Blob"
-    },
-    "Gastronomicon": {
-        "type": "Blob"
-    },
-    "GilderFix": {
-        "type": "Internal"
     },
     "GPFlags": {
         "type": "Manual",
@@ -139,7 +61,6 @@
         "type": "Manual",
         "link": "https://dev.bukkit.org/projects/grief-prevention/files"
     },
-    
     "Harbour": {
         "type": "Spiget",
         "id": 60088
@@ -147,9 +68,6 @@
     "HeadDB": {
         "type": "Spiget",
         "id": 84967
-    },
-    "InfinityExpansion": {
-        "type": "Internal"
     },
     "Images": {
         "type": "Spiget",
@@ -163,29 +81,9 @@
         "type": "Manual",
 	"link": "https://ci.loohpjames.com/job/InteractiveChat-DiscordSRV-Addon/"
     },
-    "ItemsAdder": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/%E2%9C%A8itemsadder%E2%AD%90emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.73355/"
-    },
     "ItemEdit": {
         "type": "Spiget",
         "id": 40993
-    },
-    "LevelledMobs": {
-        "type": "Manual",
-        "link": "https://github.com/ArcanePlugins/LevelledMobs/releases"
-    },
-    "LimboAPI": {
-        "type": "Manual",
-        "link": "https://github.com/Elytrium/LimboAPI/releases"
-    },
-    "LimboReconnect": {
-        "type": "Manual",
-        "link": "https://github.com/Elytrium/LimboReconnect/releases"
-    },
-    "LoneLibs": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/lonelibs.75974/"
     },
     "LuckPerms": {
         "type": "Spiget",
@@ -195,42 +93,11 @@
         "type": "Manual",
         "link": "https://luckperms.net/download"
     },
-    "MetaArrows": {
-        "type": "Internal"
-    },
-    "MetaBuilding": {
-        "type": "Internal"
-    },
-    "MetaCoin": {
-        "type": "Internal"
-    },
-    "MetaEvents": {
-        "type": "Internal"
-    },
-    "MetaGadgets": {
-        "type": "Internal"
-    },
-    "MetaGuide": {
-        "type": "Internal"
-    },
-    "MetaMachines": {
-        "type": "Internal"
-    },
     "MetaRank": {
         "type": "Internal"
     },
     "MetaPrefixes": {
         "type": "Internal"
-    },
-    "MetaStory": {
-        "type": "Internal"
-    },
-    "MetaUtils": {
-        "type": "Internal"
-    },
-    "MiniBlocks": {
-        "type": "Manual",
-        "link": "N/A"
     },
     "Multiverse": {
         "type": "Manual",
@@ -244,20 +111,6 @@
         "type": "Spiget",
         "id": 59218
     },
-    "Networks": {
-        "type": "Blob"
-    },
-    "Netheopoiesis": {
-        "type": "Manual",
-	"link": "https://thebusybiscuit.github.io/builds/Sefiraat/Netheopoiesis/master/"
-    },
-    "NexEngine": {
-        "type": "Script"
-    },
-    "NightCore": {
-	"type": "Manual",
-	"link": "https://dev.bukkit.org/projects/pvpmanager/files/5669774"
-    },
     "NuVotifier": {
         "type": "Spiget",
         "id": 13449
@@ -265,10 +118,6 @@
     "OtherAnimalTeleport": {
         "type": "Spiget",
         "id": 63497
-    },
-    "Piles": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/piles.120749/"
     },
     "PlaceholderAPI": {
         "type": "Spiget",
@@ -291,65 +140,15 @@
     "PylonCore": {
         "type": "Script"
     },
-    "PyroMining": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/pyromining-1-14-x-1-21-x-v4-0-0-update-artifacts-fossils-and-vessels.59867/"
-    },
-    "PyroFishing": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/pyrofishingpro-1-14-x-1-21-x-1-fishing-plugin-new-tournament-rework.60729/"
-    },
-    "Quaptics": {
-        "type": "Blob"
-    },
-    "RelicsOfCthonia": {
-        "type": "Blob"
-    },
-    "ResourceWorld": {
-        "type": "Spiget",
-        "id": 75994
-    },
     "RHLeafDecay": {
         "type": "Spiget",
         "id": 83581
-    },
-    "SaneCrafting": {
-        "type": "Blob"
-    },
-    "SFCalc": {
-        "type": "Blob"
-    },
-    "SignShop": {
-        "type": "Spiget",
-        "id": 10997
-    },
-    "SlimefunServerEssentials": {
-        "type": "Manual",
-        "link": "https://github.com/JustAHuman-xD/SlimefunServerEssentials/releases"
-    },
-    "SlimeHUD": {
-        "type": "Blob"
-    },
-    "SpiritsUnchained": {
-        "type": "Blob"
     },
     "Squaremap": {
         "type": "Script"
     },
     "SquaremapGriefPrevention": {
         "type": "Script"
-    },
-    "TranscEndence": {
-        "type": "Blob"
-    },
-    "Slimefun4": {
-        "type": "Blob"
-    },
-    "SlimefunBlockTextures": {
-        "type": "Internal"
-    },
-    "SlimeTinker": {
-        "type": "Blob"
     },
     "StaffPlusPlusBukkit": {
         "type": "Manual",
@@ -375,28 +174,13 @@
         "type": "Spiget",
         "id": 83966
     },
-    "TheosisEconomy": {
-        "type": "Spiget",
-        "id": 93430
-    },
     "Vault": {
         "type": "Manual",
         "link": "https://www.zrips.net/cmivault/"
     },
-    "ViaVersion": {
-        "type": "Manual",
-        "link": "https://www.spigotmc.org/resources/viaversion.19254/"
-    },
-    "VoidGen": {
-        "type": "Spiget",
-        "id": 25391
-    },
     "VotingPlugin": {
         "type": "Spiget",
         "id": 15358
-    },
-    "WorldEditSlimefun": {
-        "type": "Blob"
     },
     "WorldEditSUI": {
         "type": "Manual",
